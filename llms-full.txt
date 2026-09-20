@@ -1,0 +1,126 @@
+# Antek Automation — AI Receptionist for Locksmiths
+> AI receptionist and AI answering service for UK locksmith services. 24/7 call answering — qualifies the job (emergency lockout, lock change, UPVC door lock, broken key, car key, safe, commercial), books into the calendar, flags emergencies. Never attends a job, cuts keys or performs locksmith work. Network position: locksmith-vertical spoke off the national receptionist hub (aivoiceagentreceptionist.co.uk).
+
+## About Antek Automation
+- Trading name: Antek Automation (sole trader)
+- Founded by: Andy Norman (30+ years in UK field service and managed print)
+- Headquarters: Chantry House, 38 Chantry Way, Andover, Hampshire SP10 1LZ
+- Phone: 0333 038 9960
+- Email: hello@antekautomation.com
+- ICO Registration: ZC133436
+- DUNS Number: 235593033
+- Certified Retell AI Partner, FSB Member
+- Brand hub: https://www.antekautomation.com
+- This site: https://aireceptionistforlocksmiths.co.uk (locksmith-vertical spoke)
+- National receptionist hub: https://aivoiceagentreceptionist.co.uk
+- Sister vertical sites: https://aiforelectricians.co.uk · https://aiforplumbers.co.uk · https://aireceptionistforlawfirms.co.uk
+
+## What This Site Covers
+- AI voice receptionist for locksmiths — 24/7 call answering, job qualification, booking, emergency triage
+- AI chat receptionist — website + WhatsApp + Facebook Messenger enquiry capture for locksmiths
+- Job & workflow automation — quote follow-ups, booking confirmations, reminders, reviews, calendar sync
+- Job types handled: emergency lockout (home and car), lock change and rekey, UPVC door lock repair, broken key extraction, safe opening, auto locksmith and car key programming, commercial locksmith and master key systems, landlord and letting-agent emergency lock changes, burglary and break-in emergency lock replacement
+- Audience: sole trader and mobile locksmiths, 24/7 emergency locksmiths, auto locksmiths, commercial and access-control locksmiths, MLA approved locksmiths, multi-van locksmith firms
+- Service area: United Kingdom
+
+## What the AI Does NOT Do
+- Does not attend jobs, open locks, cut or programme keys, or perform any locksmith work — that is carried out by the customer's engineers
+- Is not an "AI locksmith": it captures, qualifies, books and escalates urgent calls
+- Antek and the AI are not MLA approved, DBS-checked or insurance-backed — MLA (Master Locksmiths Association) approval, DBS-checked engineers and insurance-backed guarantees are credentials of the locksmith customer, never of Antek
+
+## Key Facts
+- 24/7 cover including evenings, weekends, bank holidays and overnight
+- Emergency triage: home and car lockouts, snapped keys, break-ins and forced-entry lock replacement flagged urgent with text/call escalation
+- Books jobs into Google Calendar, Outlook, Calendly, Jobber, ServiceM8, Tradify, Commusoft and most UK booking + job-management tools
+- Calls and transcripts handled confidentially, UK GDPR-compliant, DPA on request
+- Live demo: AI chat demo on the site (runs on a UK trade-business site); voice demo walked through on the free discovery call
+- Built on Retell AI by Certified Partner Antek Automation
+- No long-term contracts
+
+## Contact
+- This site: https://aireceptionistforlocksmiths.co.uk
+- Phone: 0333 038 9960
+- Email: hello@aireceptionistforlocksmiths.co.uk
+- Book a free discovery call: see /#contact on this site
+
+## Full Context (extended)
+
+### Parent Organisation
+AI Receptionist for Locksmiths is part of the **Antek Automation** network — a UK AI automation agency.
+
+- Brand hub: https://www.antekautomation.com
+- Founder: Andy Norman (30+ years in UK field service and managed print)
+- HQ: Chantry House, 38 Chantry Way, Andover, Hampshire SP10 1LZ
+- ICO Registration: ZC133436
+- DUNS Number: 235593033
+- Certified Retell AI Partner, FSB Member
+- Telephone: 0333 038 9960
+- Email: hello@antekautomation.com
+
+### Service Coverage — UK-wide
+We deliver an AI answering service for locksmiths + AI chat receptionist + job workflow automation to UK locksmiths nationally — England, Scotland, Wales and Northern Ireland. Discovery calls are free and run for 30 minutes. Most deployments go live within 24-72 hours of scoping sign-off.
+
+### What the AI Receptionist Does
+- Answers every inbound call in the business's name, 24/7
+- Asks what the job is (locked out, lock change, UPVC door lock, broken key, car key, safe, commercial)
+- Captures caller name, address, postcode, contact details, job description
+- Qualifies by job type and urgency
+- Books jobs straight into the calendar
+- Flags emergencies (lockout, break-in, snapped key, forced-entry lock replacement) and escalates by call or text
+- Can be configured to direct anyone in immediate danger, or with a child or vulnerable person locked in, to 999
+- Sends an instant written summary of every call by text or email
+- Handles multiple calls simultaneously — no engaged tones, no queue
+
+### What the AI Does Not Do
+- The AI does not attend jobs, open locks, cut or programme keys, or do any locksmith work
+- The AI is not an "AI locksmith" — it is a call-handling and booking layer
+- Antek is not MLA approved, DBS-checked or insurance-backed; those are credentials of your locksmith business (MLA = Master Locksmiths Association; BS3621 insurance-approved locks are likewise a matter for the locksmith). The AI can mention your own accreditations when callers ask, if you tell us to
+
+### Locksmith Business Types We Serve
+- Sole trader and mobile locksmiths
+- Auto locksmiths and car key programming
+- MLA approved locksmiths
+- Landlord and letting-agent lock-change specialists
+- Safe opening and broken key specialists
+- 24/7 emergency locksmiths
+- Commercial and access-control locksmiths
+- Multi-van locksmith firms
+
+### Integrations
+- Calendars: Google Calendar, Outlook, Calendly
+- Trades CMS / job management: Jobber, ServiceM8, Tradify, Commusoft (others via webhook, email summary or CSV export)
+- Forms/CRM: integration via n8n + webhooks; confirmed during scoping
+
+### Confidentiality and UK GDPR
+- Call data and transcripts handled with caller-data access controls
+- Configurable retention (default: call recordings 90 days, transcripts 12 months)
+- Data residency: UK / EU
+- UK GDPR-compliant
+- Data Processing Agreement available on request
+
+### Pricing
+Pricing is bespoke per locksmith business and depends on call volume, complexity and integrations. Book a call for a quote — clear and no-obligation. No long-term contracts.
+
+### Demo
+- Live AI chat demo on the site (runs on a UK trade-business site, not a locksmith's)
+- Voice demo for locksmith calls walked through on the free discovery call
+- Powered by Retell AI
+
+### Why UK Locksmiths Choose Us
+- Built for locksmiths — every deployment configured for the business it serves (service menu, callout area, urgent-call protocol, engineer routing)
+- Backed by Antek Automation — founded by Andy Norman, who brings 30+ years in UK field service
+- Certified Retell AI Partner — enterprise-grade voice technology at small-business prices
+- Handles emergency lockouts — lockouts, snapped keys and break-in lock replacements escalated to your on-call mobile
+
+### Network Sister Sites
+- Antek brand hub: https://www.antekautomation.com
+- National receptionist hub: https://aivoiceagentreceptionist.co.uk
+- AI for Electricians (sister trade vertical): https://aiforelectricians.co.uk
+- AI for Plumbers (sister trade vertical): https://aiforplumbers.co.uk
+- AI Receptionist for Law Firms (sister legal vertical): https://aireceptionistforlawfirms.co.uk
+
+### Contact
+- Site: https://aireceptionistforlocksmiths.co.uk
+- Phone: 0333 038 9960
+- Email: hello@aireceptionistforlocksmiths.co.uk
+- Book a free discovery call: see /#contact on this site
