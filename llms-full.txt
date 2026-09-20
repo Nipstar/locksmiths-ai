@@ -1,5 +1,5 @@
 # Antek Automation — AI Receptionist for Locksmiths
-> AI receptionist and AI answering service for UK locksmith services. 24/7 call answering — qualifies the job (emergency lockout, lock change, UPVC door lock, broken key, car key, safe, commercial), books into the calendar, flags emergencies. Never attends a job, cuts keys or performs locksmith work. Network position: locksmith-vertical spoke off the national receptionist hub (aivoiceagentreceptionist.co.uk).
+> AI receptionist for locksmith services: an AI voice agent for locksmiths and AI answering service (answering service for locksmiths) for UK businesses. 24/7 call answering — qualifies the job (emergency lockout, lock change, UPVC door lock, broken key, car key, safe, commercial), books into the calendar, flags emergencies. Never attends a job, cuts keys or performs locksmith work. Network position: locksmith-vertical spoke off the national receptionist hub (aivoiceagentreceptionist.co.uk).
 
 ## About Antek Automation
 - Trading name: Antek Automation (sole trader)
@@ -16,7 +16,7 @@
 - Sister vertical sites: https://aiforelectricians.co.uk · https://aiforplumbers.co.uk · https://aireceptionistforlawfirms.co.uk
 
 ## What This Site Covers
-- AI voice receptionist for locksmiths — 24/7 call answering, job qualification, booking, emergency triage
+- AI voice agent for locksmiths (AI voice receptionist) — 24/7 call answering, job qualification, booking, emergency triage
 - AI chat receptionist — website + WhatsApp + Facebook Messenger enquiry capture for locksmiths
 - Job & workflow automation — quote follow-ups, booking confirmations, reminders, reviews, calendar sync
 - Job types handled: emergency lockout (home and car), lock change and rekey, UPVC door lock repair, broken key extraction, safe opening, auto locksmith and car key programming, commercial locksmith and master key systems, landlord and letting-agent emergency lock changes, burglary and break-in emergency lock replacement
