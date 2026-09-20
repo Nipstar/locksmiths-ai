@@ -71,7 +71,6 @@ Footer: Antek parent + hub + aiforelectricians.co.uk + aiforplumbers.co.uk + air
 
 - Real locksmith demo phone number + named locksmith reference (demo strip + FAQ 10).
 - Locksmith-specific Bolt chat demo to replace boltelectrical.uk.
-- Confirm hello@aireceptionistforlocksmiths.co.uk mailbox exists (inherited pattern from plumbers-ai).
 - `logo.svg` referenced by schema (same as plumbers-ai) — check it exists on the domain.
 
 ## Deployment
